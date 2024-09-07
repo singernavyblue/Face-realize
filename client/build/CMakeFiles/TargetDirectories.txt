@@ -1,0 +1,3 @@
+/home/china/renlianshibie/build/CMakeFiles/rebuild_cache.dir
+/home/china/renlianshibie/build/CMakeFiles/client.dir
+/home/china/renlianshibie/build/CMakeFiles/edit_cache.dir
