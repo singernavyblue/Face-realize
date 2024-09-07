@@ -1,0 +1,3 @@
+/home/china/Desktop/test4/build/CMakeFiles/rebuild_cache.dir
+/home/china/Desktop/test4/build/CMakeFiles/S1.dir
+/home/china/Desktop/test4/build/CMakeFiles/edit_cache.dir
